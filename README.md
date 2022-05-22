@@ -1,4 +1,4 @@
-#Memory Transformation Differentiable Neural Computer
+# Memory Transformation Differentiable Neural Computer
 
 Run the start_training.py file directly.
 
